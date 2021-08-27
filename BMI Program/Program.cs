@@ -1,10 +1,4 @@
-﻿/* Course: CSC205, Application Development in C#
- * Professor: Guangyan Li
- * Assigment: Individual Project
- * Program Name: BMI_Program
- * Author: Mooney, Ellyse
- * Due Date: 5 Jul 21
- * Purpose of Program: This program is designed to calculate a user's body mass index (BMI).
+﻿/* Purpose of Program: This program is designed to calculate a user's body mass index (BMI).
  * There are four options displayed to the user (in a menu-type format) and certain actions
  * will be executed depending on what is selected. The options include: converting pounds
  * into kilogragrams, converting height from inches to centimeters, calculating BMIs and
